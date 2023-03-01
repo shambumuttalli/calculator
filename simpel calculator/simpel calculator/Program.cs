@@ -9,8 +9,11 @@ namespace simpel_calculator
     class Program
     {
         static void Main(string[] args)
-        
+
+        { string a;
+            do
             {
+
                 int res;
                 Console.WriteLine("enter the first number");
                 int num1 = Convert.ToInt32(Console.ReadLine());
@@ -46,9 +49,12 @@ namespace simpel_calculator
                         break;
                 }
                 Console.ReadKey();
-              
+                Console.WriteLine("do u want to continue :( Y / y)");
+                a = Console.ReadLine();
             }
-            
+            while
+            (a == "Y" || a == "y");
+          }  
         
     }
 }
