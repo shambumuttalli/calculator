@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\simpel calculator\simpel calculator\bin\Debug\simpel calculator.exe.config
+C:\Users\user\source\repos\simpel calculator\simpel calculator\bin\Debug\simpel calculator.exe
+C:\Users\user\source\repos\simpel calculator\simpel calculator\bin\Debug\simpel calculator.pdb
+C:\Users\user\source\repos\simpel calculator\simpel calculator\obj\Debug\simpel calculator.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\simpel calculator\simpel calculator\obj\Debug\simpel calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\simpel calculator\simpel calculator\obj\Debug\simpel calculator.exe
+C:\Users\user\source\repos\simpel calculator\simpel calculator\obj\Debug\simpel calculator.pdb
